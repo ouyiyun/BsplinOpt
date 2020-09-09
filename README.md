@@ -1,5 +1,5 @@
 # 效果：
-
+![image](https://github.com/ouyiyun/BsplinOpt/blob/master/doc/Bspline.gif)
 # 参考：
 1、https://github.com/pjbarendrecht/BsplineLab
 
